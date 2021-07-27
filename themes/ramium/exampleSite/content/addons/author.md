@@ -8,4 +8,5 @@ url: "/author/"
 image: "/image/profile.png"
 ---
 
-I am John Doe. And I can confirm that this is the best theme ever!
+I am Jerad Steven Acosta.  
+I have never died as of July 27 2021 (the 2nd).  
