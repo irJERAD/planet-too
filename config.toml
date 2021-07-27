@@ -17,7 +17,7 @@ enableemoji = false
     adsense = ""
     showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
-    githubProfile = "rafed/ramium/"
+    githubProfile = "irJerad/planet/"
 
     tagsInHome = 40
     sectionsInHome = 5
