@@ -3,6 +3,7 @@ title: "The Planet Boys"
 subtitle: "Living Gods, Temples of Man, Levels of Phosphates"
 date: 2021-07-27T01:23:30+08:00
 tag: ["Imagine If","Spiritual","Cubes","Phosphates"]
+comments: true
 draft: false
 ---
 
