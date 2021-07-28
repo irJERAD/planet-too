@@ -1,5 +1,5 @@
 ---
-title: "The Planet Boys"
+title: "The Planet Bodys"
 subtitle: "Living Gods, Temples of Man, Levels of Phosphates"
 date: 2021-07-27T01:23:30+08:00
 tag: ["Imagine If","Spiritual","Cubes","Phosphates"]
@@ -7,7 +7,7 @@ comments: true
 draft: false
 ---
 
-### Image if  
+### Image If  
 
 Imagine millenia ago there was a particular set of humans who maintain a connection to something higher than this place.  
 
