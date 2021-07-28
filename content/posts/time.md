@@ -37,3 +37,6 @@ Create A Routine of Consumption
 
 
 #### Motivations of Consumption  
+
+Consume for pleasure  
+Consume for interest  

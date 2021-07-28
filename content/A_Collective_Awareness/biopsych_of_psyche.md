@@ -16,6 +16,8 @@ MK-ultra
 
 DA for attention  
 
+Neuropeptides small proteins produced by neurons, the modulation of amine and amine acide neurotransmitter.  
+
 ## The Nervous System  
 
 Our nervous system is composed of over a hundred neurotransmitters.  
