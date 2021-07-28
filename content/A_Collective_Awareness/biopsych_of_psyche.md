@@ -7,8 +7,9 @@ comments: true
 draft: false
 ---
 
-5-HT type-2 receptors  
-DA type-2 receptors
+5-HT type-2 receptors: Mood regulation  
+DA type-2 receptors: Attention  
+AT2: Regulation of fluid and electrolytes
 
 Serotonin for emotion and tripping out telepathically
 MK-ultra  
