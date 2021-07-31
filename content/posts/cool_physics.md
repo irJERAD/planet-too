@@ -7,4 +7,11 @@ comments: true
 draft: false
 ---
 
-The Sun is burning 
+## Foreward  
+
+The Sun is burning  
+
+
+## Gravity  
+
+Between space and time at the center of gravity something woven into reality can 
