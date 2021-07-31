@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addons on Planet Jerad</title>
+    <link>https://planet.jerad.xyz/addons/</link>
+    <description>Recent content in Addons on Planet Jerad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 02:07:31 +0600</lastBuildDate><atom:link href="https://planet.jerad.xyz/addons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Author</title>
+      <link>https://planet.jerad.xyz/author/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:31 +0600</pubDate>
+      
+      <guid>https://planet.jerad.xyz/author/</guid>
+      <description>I am Jerad Steven Acosta.
+I have never died as of July 27 2021 (the 2nd).</description>
+    </item>
+    
+    <item>
+      <title>Admin Panel</title>
+      <link>https://planet.jerad.xyz/admin/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://planet.jerad.xyz/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Sections</title>
+      <link>https://planet.jerad.xyz/sections/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://planet.jerad.xyz/sections/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
