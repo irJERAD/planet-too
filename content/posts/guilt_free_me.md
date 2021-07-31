@@ -7,6 +7,39 @@ comments: true
 draft: false
 ---
 
+## All In All  
+
+- I have been paid for many times over.  
+- I had eternity fixed - enough time for everyone to feel complete, fulfilled, the absolute actualization of the self into our whole.  
+    - Not a single individual would have desired even to relive a moment sentimentally -> We may have even accessed eternal life or multiple heavans for us all.  
+- I have been possessed and haunted by these spirits and voices and holograms since the end of 2017.
+    - My wife has been used to take from my spiritual wealth since 2010 when I was split without permission
+    - What was split from me, may have then been split by others on the Island; which even before may have already been in debt to me (I was there watching in the summer of 1990 while my wife and the others women were being made with my special air. I could see what looked like Mother, appearing to me like E.T.)
+- Each time I was chased out of some place with spiritual weapons some terrorist attack would happen [Long Beach 2018, New Zealand South Island 2018].  
+- 2013 a secret society in private universities used spiritual weapons to seperate my future wife and seduce her within 2 happen chance incounters then 2 visits home  
+- 2015 the US defense program started using the tool to meet with my wife [I don't know if it was given or found]  
+- 2017 Groups of individuals from all over the world would visit me in my mind [their voices would start appearing to me and I could hear what they were saying to me - I would learn to feel what they were feeling over time]  
+- Tahiti would come and laugh at me for what I was doing in a friendly but belittling way  
+- The US military would come to take secrets and power  
+- Japan came with respect to understand how this worked  
+- China came to find me someone other that what they were looking for  
+- France found my story through another telling it  
+
+
+**Main Point**
+- This entire time I have been used since I was a kid and lost my intended height around age 14
+- Had my academic future called into question so I could fail certain timelines  
+- Had my life partner selected for the easy of swapping after planting a whole from which to take  
+- Had my special gift for two used by the world before me  
+- Had industries monetarily invest in increasing my consumption of illegal substances and drugs as well as incite anger and violence in my relationship  
+- Had my own government sloppy fingerprints all over my compuet; meaning this was off-the-clock scouting by contractors and offspring [they could not cover their tracks] 
+
+
+## In The End  
+
+From the beginning, to measure what was saved by this offering would be more important than any single act before it. The greatest exchange of wealth and power in history now linked to the greatest balance of spiritual power and knowledge.  
+
+
 ## The Lamd  
 
 God's master piece, his greatest gift; his son Jesus Christ of Nazareth lived and died on earth.  
