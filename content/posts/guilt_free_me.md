@@ -1,6 +1,6 @@
 ---
 title: "Guilt Free Me"
-subtitle: ""
+subtitle: "no hide, no lie, no secret"
 date: 2021-07-31T01:22:44+08:00
 tag: ["Cool-Talk","Physics","sin","free-will","heaven"]
 comments: true

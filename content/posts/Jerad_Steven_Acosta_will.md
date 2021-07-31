@@ -4,9 +4,9 @@ subtitle: Please defer to this most recent edit as our final will and testament
 summary: 
 authors:
 - admin
-tags: []
+tags: ["will","wealth","debt"]
 categories: []
-date: "2021-07-04T11:54:00Z"
+date: "2021-07-31T11:54:00Z"
 featured: true
 draft: false
 ---
