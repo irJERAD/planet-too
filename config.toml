@@ -55,8 +55,18 @@ enableemoji = false
                 name = "All Posts"
                 url = "/posts/"
                 weight = 3
+
+    [[menu.main]]
+        name = "A Collective Awareness"
+        url = "/a_collective_conscious/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Notes"
+        url = "/notes/"
+        weight = 4
     
     [[menu.main]]
         name = "Author"
         url = "/author/"
-        weight = 3
+        weight = 5
