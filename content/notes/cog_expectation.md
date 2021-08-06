@@ -16,5 +16,8 @@ The younger self invests more of identity in its social group - compared to pers
 "Peer Pressure" holds more sway over the individual.  
 
 
+## Interpretation Relation   
+
 The observation of art by different individuals produces multiple interpretations.  
 
+Cultural significance is related to the distribution of observers that support different perspecitves.  
