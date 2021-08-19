@@ -18,6 +18,17 @@ Thank you for every day I have had.
 
 Thank you for my rest. And thank you for my wife.  
 
+Thank you for our memories, and for each other.  
+
+Please allow us to enjoy this day making more memories that we can cherrish.  
 
 
 ### Each And Every Day Is A Gift  
+
+It can be hard to appreciate just how fortunate we are..  
+
+We live on this giant rock spinning through space, with a sun perfectly situated just so and a moon resting outside our reach but close enough to guide our tides for a rich and comlex ecosystem along the coasts of our planets oceans.  
+
+We simply get to wake up to our preset coffee machines, chirping at the right time.  
+
+Reading a paper written by professionals who know just what to say and how to put it into words for you to digest.  
