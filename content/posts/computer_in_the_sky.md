@@ -25,4 +25,4 @@ Turns out Fluoride and hydrogen are a common enough gas around this area
 
 Flouride is good for moving oxygen and for liquid breathing in gas breathing animals  
 
-Liquid breathing uses liquid to transfer oxygen to parts of the body rather than the lungs breathing air and iron carrying oxygen  
+Liquid breathing uses liquid to transfer oxygen to parts of the body rather than the lungs breathing air and iron carrying oxygen   
