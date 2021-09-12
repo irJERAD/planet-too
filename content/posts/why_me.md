@@ -8,7 +8,7 @@ draft: false
 ---
 
 This has certaintly been a trip, this detour of ours.  
-
+  
 Heard the call of Swamis, raced a chair with a pharoh, received mana and life from a mummy, Seen broken bread with dinosaurs, and walked with the man himself and his loved mother.  
 
 We heard about prophets then we became such. Left Earth to find ourselves underneath.  
